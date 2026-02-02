@@ -15,7 +15,7 @@ A desktop-based shop management system for organic stores, built with C# and MyS
 
 ### Quick Setup
 1. **Clone the repository:**
-```bash
+   
 git clone https://github.com/MoviniGayaraa/GreenStoreShopSystem.git
 cd GreenStoreShopSystem
 Set up MySQL database:
