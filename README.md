@@ -1,11 +1,10 @@
-markdown
 # 🛒 GreenLife Organic Store System
 
 A desktop-based shop management system for organic stores, built with C# and MySQL.
 
-🔗 Documentation Links
-📘 Full User Guide
-👉 Complete User Manual (Includes detailed instructions for all features)
+## 🔗 Documentation Links
+📘 **Full User Guide**  
+👉 **Complete User Manual** (Includes detailed instructions for all features)
 
 ## 🚀 Installation Guide
 
@@ -21,6 +20,11 @@ git clone https://github.com/MoviniGayaraa/GreenStoreShopSystem.git
 cd GreenStoreShopSystem
 Set up MySQL database:
 
+sql
+CREATE DATABASE shopGreen;
+USE shopGreen;
+Configure connection string in App.config:
+
 xml
 server=localhost;user=root;password=YOUR_PASSWORD;database=shopGreen;
 Open in Visual Studio and build the solution.
@@ -34,11 +38,6 @@ Open GreenStoreShopSystem.sln in Visual Studio 2022
 Click Build → Build Solution (or press Ctrl+Shift+B)
 
 Press F5 to run the application
-
-Quick Login Credentials:
-Admin: username=admin, password=admin123
-
-Customer: username=customer, password=customer123
 
 Basic Navigation:
 Customers: Login → Browse Products → Add to Cart → Checkout
