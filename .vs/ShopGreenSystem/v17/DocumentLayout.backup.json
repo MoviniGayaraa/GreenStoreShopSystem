@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\trackordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\trackordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\mycartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\mycartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\shopgreensystem\\mycartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\mycartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\shopgreensystem\\trackordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\trackordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\browseproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\browseproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\browseproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\myprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\myprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\shopgreensystem\\myprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\myprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\customermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|d:\\harimaprohectekaookamacompteeka\\tesing\\shopgreensystem\\shopgreensystem\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264D443-7983-474E-BEF8-C5C6BB6234A6}|ShopGreenSystem\\ShopGreenSystem.csproj|solutionrelative:shopgreensystem\\customerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrowseProductsForm.cs [Design]",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\BrowseProductsForm.cs",
+              "ToolTip": "D:\\tesing\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\tesing\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:08:56.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackOrdersForm.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\TrackOrdersForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\TrackOrdersForm.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\TrackOrdersForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\TrackOrdersForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwFMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:04:48.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrackOrdersForm.cs [Design]",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\TrackOrdersForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\TrackOrdersForm.cs",
+              "ToolTip": "D:\\tesing\\ShopGreenSystem\\ShopGreenSystem\\TrackOrdersForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\tesing\\ShopGreenSystem\\ShopGreenSystem\\TrackOrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:04:41.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCartForm.cs [Design]",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyCartForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\MyCartForm.cs",
+              "ToolTip": "D:\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyCartForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyCartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:03:32.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCartForm.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyCartForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\MyCartForm.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyCartForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\MyCartForm.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAADgv9YBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:03:41.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrowseProductsForm.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\BrowseProductsForm.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\BrowseProductsForm.cs",
+              "ViewState": "AgIAAPoEAAAAAAAAAAAowCsFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:09:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrowseProductsForm.Designer.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "RelativeToolTip": "ShopGreenSystem\\BrowseProductsForm.Designer.cs",
+              "ViewState": "AgIAAPoBAAAAAAAAAAAowAkCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:11:24.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyProfileForm.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyProfileForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\MyProfileForm.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyProfileForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\MyProfileForm.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAIA+wJYBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:04:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyProfileForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\MyProfileForm.cs",
+              "ToolTip": "D:\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyProfileForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\tesing\\ShopGreenSystem\\ShopGreenSystem\\MyProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:04:10.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerManagementForm.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\CustomerManagementForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\CustomerManagementForm.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\CustomerManagementForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\CustomerManagementForm.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAmwK4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:02:25.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\AdminDashboardForm.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\AdminDashboardForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAASwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:59:28.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDashboardForm.cs",
+              "DocumentMoniker": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\CustomerDashboardForm.cs",
+              "RelativeDocumentMoniker": "ShopGreenSystem\\CustomerDashboardForm.cs",
+              "ToolTip": "D:\\HarimaProhectEkaookamaCompteEka\\tesing\\ShopGreenSystem\\ShopGreenSystem\\CustomerDashboardForm.cs",
+              "RelativeToolTip": "ShopGreenSystem\\CustomerDashboardForm.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAvwLYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:57:29.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
